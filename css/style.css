@@ -1,0 +1,49 @@
+h1{
+  font-size:80px;
+  color:white;
+  font-family:Dancing Script;
+  font-weight:900;
+  }
+html{
+  background-img:url("https://images6.alphacoders.com/395/395629.png");
+}
+.chapters{
+  color:Red;
+  font-size:25px;
+  font-family:Lobster;
+  text-align:center;
+}
+.pageone{
+     background-image: url("https://images4.alphacoders.com/169/169084.jpg");
+  background-color:black;
+ background-size:cover;
+  height:900px;
+}
+h2{
+  text-align:center;
+  color:red;
+   font-family:Permanent Marker;
+}
+P{
+  color:red;
+}
+body {
+    background-image: url("https://images4.alphacoders.com/169/169084.jpg");
+}
+.oneletter{
+  color:red;
+  font-size:70px;
+  font-family:lobster;
+  float:left;
+    margin-left:25px; 
+}
+.main1{
+  font-size:25px;
+  font-family:lobster;
+  float:left;
+  margin-left:5px;
+ position: relative;
+ bottom:-30px;
+  
+}
+  
